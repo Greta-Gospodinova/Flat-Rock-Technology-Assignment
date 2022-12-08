@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="csvhelper" Version="30.0.1" />
     <PackageReference Include="htmlagilitypack" Version="1.11.46" />
     <PackageReference Include="newtonsoft.json" Version="13.0.2" />
   </ItemGroup>
